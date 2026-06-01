@@ -3,6 +3,7 @@ CREATE TYPE "toggle_status" AS ENUM (
   'deactive'
 );
 
+//
 CREATE TYPE "order_status" AS ENUM (
   'pending',
   'processing',
